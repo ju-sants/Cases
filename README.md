@@ -1,5 +1,7 @@
 # Cases DNC
 
+***Olá pessoal! Aqui é o Juan!*** Um tempinho se passou desde as últimas postagens de repositórios aqui no github, e foi tempo suficiente para aprender **muita coisa!**
+
 ## Case Classificação
 
 **Este projeto; já mais avançado, utiliza de técnicas de descrição, exploração e entendimento dos dados. Seleção de features de acordo com sua importância. Divisão de massas de treino e teste estratificadas,**
